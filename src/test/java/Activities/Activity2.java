@@ -1,4 +1,4 @@
-package Activities.Activity1;
+package Activities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

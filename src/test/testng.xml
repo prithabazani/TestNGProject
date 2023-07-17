@@ -3,7 +3,8 @@
 <suite name="SeleniumTest">
     <test name="Example1">
         <classes>
-        <class name="Examples.TestNGSeleniumExample"/>
+            <class name="Activities.Activity2"/>
+            <class name="Activities.Activity1"/>
         </classes>
     </test>
 </suite>
